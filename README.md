@@ -106,11 +106,3 @@ python evaluate_model.py
 ```
 rosrun rqt_multiplot rqt_multiplot
 ```
-
-```
-mp3d
-├── sdf
-|   ├── SCENE_NAME_sdf.npy
-|   ├── SCENE_NAME.json
-├── SCENE_NAME.ply
-```
